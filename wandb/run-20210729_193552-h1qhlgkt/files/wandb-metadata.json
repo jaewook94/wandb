@@ -1,0 +1,24 @@
+{
+    "os": "Windows-10-10.0.17134-SP0",
+    "python": "3.8.5",
+    "heartbeatAt": "2021-07-29T10:35:59.054105",
+    "startedAt": "2021-07-29T10:35:52.431818",
+    "docker": null,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": [
+        "-f",
+        "C:\\Users\\\uc7ac\uc6b1\\AppData\\Roaming\\jupyter\\runtime\\kernel-56319739-6956-4128-a152-2820cece8d0e.json"
+    ],
+    "state": "running",
+    "program": "Untitled.ipynb",
+    "root": "C:/git/wandb",
+    "git": {
+        "remote": "https://github.com/jaewook94/wandb.git",
+        "commit": "72d23af7967d6be3cf15b4c9b0b4e0c3c7f2e1fe"
+    },
+    "email": null,
+    "host": "DESKTOP-DK2G73S",
+    "username": "jaewook",
+    "executable": "C:\\anaconda3\\python.exe"
+}

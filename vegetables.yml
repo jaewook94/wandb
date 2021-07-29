@@ -1,0 +1,10 @@
+Vegetables:
+  - Pepper
+  - Tomato
+  - Garlic
+epochs:
+  - desc: Number of epochs to train over
+  - value: 100
+batch_size:
+  - desc: Size of each mini-batch
+  - value: 32
