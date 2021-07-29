@@ -8,27 +8,26 @@ _wandb:
     is_kaggle_kernel: false
     python_version: 3.8.5
     t:
+      3:
+      - 2
       4: 3.8.5
       5: 0.11.0
       8:
       - 1
       - 3
       - 5
-batch_per_gpu:
+architecture:
   desc: null
-  value: 8
-batch_size:
+  value: CNN
+dataset_id:
   desc: null
-  value: 32
-dataset:
+  value: peds-0192
+infra:
   desc: null
-  value: celeba
-epochs:
+  value: AWS
+learning_rate:
   desc: null
-  value: 4
-type:
+  value: 0.01
+momentum:
   desc: null
-  value: baseline
-weight_decay:
-  desc: null
-  value: 0.1
+  value: 0.2
