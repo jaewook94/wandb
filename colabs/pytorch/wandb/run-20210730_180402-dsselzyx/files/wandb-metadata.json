@@ -1,0 +1,24 @@
+{
+    "os": "Windows-10-10.0.17134-SP0",
+    "python": "3.8.5",
+    "heartbeatAt": "2021-07-30T09:04:10.626482",
+    "startedAt": "2021-07-30T09:04:02.823279",
+    "docker": null,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": [
+        "-f",
+        "C:\\Users\\\uc7ac\uc6b1\\AppData\\Roaming\\jupyter\\runtime\\kernel-c5c3cf7f-16c1-4f93-b824-50371943c0b6.json"
+    ],
+    "state": "running",
+    "program": "colabs/pytorch/PyTorch_Sweep.ipynb",
+    "root": "C:/git/wandb",
+    "git": {
+        "remote": "https://github.com/jaewook94/wandb.git",
+        "commit": "946d40119b2031c69322939fcff13faf5531fcf1"
+    },
+    "email": null,
+    "host": "DESKTOP-DK2G73S",
+    "username": "jaewook",
+    "executable": "C:\\anaconda3\\python.exe"
+}
