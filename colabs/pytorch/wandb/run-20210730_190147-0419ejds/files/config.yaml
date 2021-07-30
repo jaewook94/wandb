@@ -23,19 +23,19 @@ _wandb:
       - 5
 batch_size:
   desc: null
-  value: 32
+  value: 64
 dropout:
   desc: null
-  value: 0.3
+  value: 0.5
 epochs:
   desc: null
-  value: 10
+  value: 5
 fc_layer_size:
   desc: null
-  value: 256
+  value: 512
 learning_rate:
   desc: null
-  value: 0.01
+  value: 0.001
 optimizer:
   desc: null
   value: sgd
