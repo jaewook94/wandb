@@ -23,13 +23,13 @@ _wandb:
       - 5
 batch_size:
   desc: null
-  value: 64
+  value: 128
 dropout:
   desc: null
-  value: 0.4
+  value: 0.5
 epochs:
   desc: null
-  value: 10
+  value: 5
 fc_layer_size:
   desc: null
   value: 256

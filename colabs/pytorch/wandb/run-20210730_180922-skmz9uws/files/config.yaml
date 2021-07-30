@@ -23,10 +23,10 @@ _wandb:
       - 5
 batch_size:
   desc: null
-  value: 64
+  value: 32
 dropout:
   desc: null
-  value: 0.4
+  value: 0.5
 epochs:
   desc: null
   value: 10

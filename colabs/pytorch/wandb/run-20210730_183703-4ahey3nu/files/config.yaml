@@ -32,10 +32,10 @@ epochs:
   value: 10
 fc_layer_size:
   desc: null
-  value: 256
+  value: 512
 learning_rate:
   desc: null
-  value: 3.0e-05
+  value: 1.0e-05
 optimizer:
   desc: null
   value: adam

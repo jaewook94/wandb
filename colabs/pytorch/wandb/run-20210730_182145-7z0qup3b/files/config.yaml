@@ -26,7 +26,7 @@ batch_size:
   value: 64
 dropout:
   desc: null
-  value: 0.4
+  value: 0.5
 epochs:
   desc: null
   value: 10
@@ -35,7 +35,7 @@ fc_layer_size:
   value: 256
 learning_rate:
   desc: null
-  value: 3.0e-05
+  value: 0.001
 optimizer:
   desc: null
   value: adam
